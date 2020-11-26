@@ -1,7 +1,6 @@
-# yourcountry flutter y dart
+# yourcountry desarrollado en flutter y dart
 
-Busca tu pais y apoyalo con tus Like ;)
-este proyecto tienes fines de educacion para el uso de:
+Proyecto tienes fines de educacion para el uso de:
 
 # Patrones de diseño como DDD
 # Uso de flutter_bloc estados
